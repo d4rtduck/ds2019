@@ -11,6 +11,8 @@ USTH ICT 2019 Distributed Systems
 Group Info
 =======================
 
-* Name 1 (ID1)
-* Name 2 (ID2)
+* Huynh Vinh Nam USTHBi7-114
+* Le Huy Duc USTHBi7-036
+* Bui Vu Huy USTHBi7-082
+* Nguyen Ngoc Trung USTHBi7-154
 
